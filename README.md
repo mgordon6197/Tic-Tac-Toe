@@ -1,9 +1,8 @@
 A Tic-Tac-Toe game playable with NxN board sizes.
 
 Step 1:
-	Run the program with
-		tic_tac_toe.rb N
-	where N is the board size (NxN)
+	Enter the size of the board at the end of tic_tac_toe.rb to any integer above 3.
+	enter it in the variable 'size'
 
 Step 2:
 	Select player 1 type (human or computer)
